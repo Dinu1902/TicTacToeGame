@@ -1,4 +1,4 @@
-# ConsoleApplication1
+# TicTacToe 
 1.TicTacToe Game
 2.un joc simplu TicTacToe care ruleaza in consola contra calculatorului 
 3.Reguli: 1.E nevoie sa alegi o cifra de la 1-9 pentru a selecta o casuta din cele 9
